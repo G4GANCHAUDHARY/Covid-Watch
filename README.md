@@ -6,3 +6,5 @@ The data has been proportionately represented on maps and gives an overall idea 
 Covid-19 cases in India.
 
 Tech Stack: JavaScript, HTML, CSS
+
+This project is hosted at https://g4ganchaudhary.github.io/Covid-watch/
